@@ -19,7 +19,7 @@
 
 ### 💻 Tech I Work With  
 - **Languages:** Python, SQL  
-- **Frameworks/Tools:** FastAPI, MySQL (raw queries only!), DBeaver, PyCharm, Linux  
+- **Frameworks/Tools:** FastAPI, MySQL, DBeaver, PyCharm, Linux  
 
 - **Current Deployment:**  
   Built and deployed backend systems on Linux servers with **cron jobs**, a custom **supervisor process manager**, and a **logging and update system** so robust it feels like having a live narrator for the apps.  
